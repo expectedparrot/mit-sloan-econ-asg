@@ -1,8 +1,13 @@
 # MIT Sloan 15.010: Simulated-Consumer Pricing Study
 
-Copy and paste the text below into the Expected Parrot research agent chat.
+1. Sign up for an account with your MIT email at [www.expectedparrot.com](https://www.expectedparrot.com).
+2. Go to the **Research Agent** tab. You should see this:
 
-![Paste the prompt into the Expected Parrot Research Agent chat box](images/research-agent-paste.png)
+   ![Paste the prompt into the Expected Parrot Research Agent chat box](images/research-agent-paste.png)
+
+3. Copy and paste the prompt below into the chat box, send it, and follow the agent's instructions.
+
+## Prompt
 
 Use the copy button in the upper-right corner of the block to copy the entire prompt.
 
