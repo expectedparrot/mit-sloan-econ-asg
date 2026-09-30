@@ -2,7 +2,7 @@
 
 Copy and paste the text below into the Expected Parrot research agent chat.
 
-![Screenshot provided for the assignment](images/screenshot.png)
+![Paste the prompt into the Expected Parrot Research Agent chat box](images/screenshot.png)
 
 Use the copy button in the upper-right corner of the block to copy the entire prompt.
 
